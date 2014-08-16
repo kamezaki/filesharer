@@ -1,0 +1,3 @@
+[submodule "filesharer-play-java"]
+	path = filesharer-play-java
+	url = git@github.com:kamezaki/filesharer-play-java.git
